@@ -1,13 +1,18 @@
 ---
-title: "Nome_Aluno(a) "
-image: "logo.png"
+title: "Felipe Henrique Menezes"
+image: "fotopessoal.jpg"
 links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/felipe-henrique-silva-ba11b434b/"
+  - label: Instagram
+    url: "https://www.instagram.com/felipehm_/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/FlpMenezes"
   - label: Email
-    url: "mailto:name@gmail.com"
+    url: "felipehmasilva@gmail.com"
 output:
   postcards::jolla
 ---
  
-Descrição sobre o aluno(a)!
+Eu sou um aluno da Universidade Federal de São João Del Rei cursando engenharia mecatrônica no campus Alto Paraopeba em Ouro Branco-MG. 
+Conciliando a vida acadêmica, sou aprendiz na Gerdau. 
